@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# quiz1
-=======
 #  Django Portfolio Website
 
 ---
@@ -17,4 +14,4 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-(quiz 1)
+
